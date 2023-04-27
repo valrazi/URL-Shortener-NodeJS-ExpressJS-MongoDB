@@ -1,5 +1,4 @@
-#Url Shortener with MVC architecture
-##Using NodeJS, ExpressJS and MongoDB
+Url Shortener with MVC architecture using NodeJS, ExpressJS and MongoDB
 =============
 Simple MVC Web Apps for URL Shortene
 Install Dependency using
